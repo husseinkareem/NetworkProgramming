@@ -1,4 +1,4 @@
-package com.company;
+package com.company.övn3a;
 
 public class Tåg extends Fordon{
 

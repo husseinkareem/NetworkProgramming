@@ -1,6 +1,6 @@
-package com.company;
+package com.company.övn3b;
 
-public class Bil extends Fordon{
+public class Bil extends Fordon {
 
     protected int antalVäxlar;
     protected int växelJustNu;

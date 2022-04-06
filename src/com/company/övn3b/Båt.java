@@ -1,6 +1,6 @@
-package com.company;
+package com.company.övn3b;
 
-public class Båt extends Fordon{
+public class Båt extends Fordon {
 
     protected int dödVikt;
 

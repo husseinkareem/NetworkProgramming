@@ -1,6 +1,6 @@
-package com.company;
+package com.company.övn3b;
 
-public class Cykel extends Fordon{
+public class Cykel extends Fordon {
 
     protected int antalVäxlar;
     protected int växlarJustNu;

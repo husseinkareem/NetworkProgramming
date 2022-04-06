@@ -1,4 +1,4 @@
-package com.company;
+package com.company.övn3b;
 
 public class Main {
 
