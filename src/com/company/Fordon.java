@@ -8,6 +8,7 @@ public class Fordon {
         hastighet=nyHastighet;
     }
 
+    //ändring...
     public Fordon(){}
 
     public Fordon(int hastighet, int vikt){
