@@ -1,4 +1,4 @@
-package com.company.övn3b;
+package com.company.övn3d;
 
 public class Cykel extends Fordon {
 

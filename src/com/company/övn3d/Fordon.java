@@ -1,6 +1,7 @@
-package com.company.övn3b;
+package com.company.övn3d;
 
-public abstract class Fordon {
+public abstract class Fordon implements IPrintable{
+
     private int hastighet;
     private int vikt;
 
@@ -21,4 +22,6 @@ public abstract class Fordon {
         return vikt;
     }
     abstract public void printMe();
+
 }
+
