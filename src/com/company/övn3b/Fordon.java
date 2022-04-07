@@ -1,18 +1,24 @@
 package com.company.övn3b;
 
-public class Fordon {
-    protected int hastighet;
-    protected int vikt;
+public abstract class Fordon {
+    private int hastighet;
+    private int vikt;
 
     public void ändrahasighet(int nyHastighet){
         hastighet=nyHastighet;
     }
 
-    //ändring...
     public Fordon(){}
 
     public Fordon(int hastighet, int vikt){
         this.hastighet = hastighet;
         this.vikt = vikt;
     }
+    public int getHastighet(){
+        return hastighet;
+    }
+    public int getVikt(){
+        return vikt;
+    }
+    abstract public void printMe();
 }
